@@ -141,19 +141,19 @@ body, html {
 .stats-section h2 {
     color: #222;
     margin-bottom: 30px;
-    font-size: 24px;
+    font-size: 38px;
 }
 
 .stats-grid {
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 200px;
     flex-wrap: wrap;
 }
 
 .stat-item h3 {
     color: #5b4dfa;
-    font-size: 32px;
+    font-size: 80px;
     margin: 0;
 }
 
