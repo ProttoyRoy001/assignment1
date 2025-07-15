@@ -201,7 +201,7 @@ body, html {
 .checked {
   color: orange;
   margin-bottom: 10px;
-  gap: 10px;
+
 }
 /* .stars {
   color: #f8b400;
@@ -252,24 +252,26 @@ body, html {
     padding: 60px 20px;
     text-align: center;
     border-radius: 16px;
-    max-width: 900px;
+    max-width: 1150px;
     margin: 50px auto;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
 }
 
 .focus-text h1 {
-    font-size: 28px;
+    font-size: 50px;
     color: #1a1a1a;
     margin-bottom: 10px;
 }
 
 .focus-text p {
     color: #7a7a7a;
+    font-size: 16px;
     margin-bottom: 20px;
 }
 
 .btn-primary {
     padding: 12px 24px;
+    font-size: 16px;
     background: #5b4dfa;
     color: #fff;
     text-decoration: none;
